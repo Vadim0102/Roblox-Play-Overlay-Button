@@ -5,8 +5,8 @@
 // @description  Play button overlay on main page Roblox 💖
 // @author       Vadim0102
 // @match        https://www.roblox.com/*
-// @updateURL    https://raw.githubusercontent.com/Vadim0102/Roblox-Play-Overlay-Button/master/dist/roblox-play-overlay-button.user.js
-// @downloadURL  https://raw.githubusercontent.com/Vadim0102/Roblox-Play-Overlay-Button/master/dist/roblox-play-overlay-button.user.js
+// @updateURL    https://raw.githubusercontent.com/Vadim0102/Roblox-Play-Overlay-Button/main/roblox-play-overlay-button.user.js
+// @downloadURL  https://raw.githubusercontent.com/Vadim0102/Roblox-Play-Overlay-Button/main/roblox-play-overlay-button.user.js
 // @grant        none
 // ==/UserScript==
 
